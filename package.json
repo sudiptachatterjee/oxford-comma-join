@@ -1,0 +1,22 @@
+{
+  "name": "oxford-comma-join",
+  "version": "1.0.0",
+  "description": "Convert a list of strings into a single Oxford comma separated string",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "oxford",
+    "string",
+    "comma"
+  ],
+  "author": "Sudipta Chatterjee",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "mocha": "^7.0.0"
+  }
+}
