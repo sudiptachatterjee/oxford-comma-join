@@ -18,5 +18,6 @@
   "license": "Apache-2.0",
   "dependencies": {
     "mocha": "^7.0.0"
-  }
+  },
+  "repository":"sudiptachatterjee/oxford-comma-join"
 }
